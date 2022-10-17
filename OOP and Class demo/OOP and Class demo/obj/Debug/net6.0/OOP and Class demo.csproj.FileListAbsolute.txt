@@ -1,0 +1,15 @@
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\bin\Debug\net6.0\OOP and Class demo.exe
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\bin\Debug\net6.0\OOP and Class demo.deps.json
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\bin\Debug\net6.0\OOP and Class demo.runtimeconfig.json
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\bin\Debug\net6.0\OOP and Class demo.dll
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\bin\Debug\net6.0\OOP and Class demo.pdb
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\OOP and Class demo.csproj.AssemblyReference.cache
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\OOP and Class demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\OOP and Class demo.AssemblyInfoInputs.cache
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\OOP and Class demo.AssemblyInfo.cs
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\OOP and Class demo.csproj.CoreCompileInputs.cache
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\OOP and Class demo.dll
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\refint\OOP and Class demo.dll
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\OOP and Class demo.pdb
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\OOP and Class demo.genruntimeconfig.cache
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\OOP and Class demo\obj\Debug\net6.0\ref\OOP and Class demo.dll
