@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hughmungus\\OneDrive\\Skrivbord\\GitHub\\OOP-and-Class\\OOP and Class demo\\OOP and Class demo\\OOP and Class demo.csproj": {}
+    "C:\\Users\\nordf\\OneDrive\\Skrivbord\\GitHub\\OOP-Practice\\OOP and Class demo\\OOP and Class demo\\OOP and Class demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hughmungus\\OneDrive\\Skrivbord\\GitHub\\OOP-and-Class\\OOP and Class demo\\OOP and Class demo\\OOP and Class demo.csproj": {
+    "C:\\Users\\nordf\\OneDrive\\Skrivbord\\GitHub\\OOP-Practice\\OOP and Class demo\\OOP and Class demo\\OOP and Class demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hughmungus\\OneDrive\\Skrivbord\\GitHub\\OOP-and-Class\\OOP and Class demo\\OOP and Class demo\\OOP and Class demo.csproj",
+        "projectUniqueName": "C:\\Users\\nordf\\OneDrive\\Skrivbord\\GitHub\\OOP-Practice\\OOP and Class demo\\OOP and Class demo\\OOP and Class demo.csproj",
         "projectName": "OOP and Class demo",
-        "projectPath": "C:\\Users\\hughmungus\\OneDrive\\Skrivbord\\GitHub\\OOP-and-Class\\OOP and Class demo\\OOP and Class demo\\OOP and Class demo.csproj",
-        "packagesPath": "C:\\Users\\hughmungus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hughmungus\\OneDrive\\Skrivbord\\GitHub\\OOP-and-Class\\OOP and Class demo\\OOP and Class demo\\obj\\",
+        "projectPath": "C:\\Users\\nordf\\OneDrive\\Skrivbord\\GitHub\\OOP-Practice\\OOP and Class demo\\OOP and Class demo\\OOP and Class demo.csproj",
+        "packagesPath": "C:\\Users\\nordf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nordf\\OneDrive\\Skrivbord\\GitHub\\OOP-Practice\\OOP and Class demo\\OOP and Class demo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hughmungus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nordf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
